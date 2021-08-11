@@ -1,0 +1,1 @@
+Para poder observar el dashboard, por favor descargar el .html
